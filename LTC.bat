@@ -1,0 +1,1 @@
+minerd.exe -a scrypt -r1 -t3 -s6 -o stratum+tcp://us2.litecoinpool.org:3333 -O SEU_LOGIN.NUMERO_DO_WORK:1
